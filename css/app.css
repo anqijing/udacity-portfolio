@@ -1,0 +1,38 @@
+body {
+	color: #2d3c49;
+	font-family: 'Raleway', sans-serif;
+}
+
+hr {
+	border-color: #7d97ad;
+	border-width: 4px;
+}
+
+.subtitle {
+	color: #7d97ad;
+}
+
+.icon-img {
+	width: 130px;
+}
+
+#main-body {
+	margin: 10px 10% 30px 10%;
+}
+
+.basic-info {
+	text-align: right;
+}
+
+.main-img {
+	margin: auto;
+}
+
+.work-item {
+	padding: 20px;
+	text-align: center;
+}
+
+.work-img{
+	cursor: pointer;
+}
